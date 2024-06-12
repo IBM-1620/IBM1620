@@ -4,9 +4,6 @@
 * SPICE model of IBM SMS logic card
 * Bruce MacKinnon 7-June-2024
 
-.include "../ibm-sms-models.sp"
-.include "../ibm-sms-components.sp"
-
 .SUBCKT SMS_CARD_XXX a b c d e f g h j k l m n p q r
 
 * Standard aliases for power/ground pins
