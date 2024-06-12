@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: MX
+description: "CTRL-Inverter \"N\" 2 Way Extender"
+function: "Quad 2 Input Open Collector NAND"
+pins:
+  A:
+    type: INPUT
+    name: "I2"
+  B:
+    type: INPUT
+    name: "I1"
+  C:
+    type: OUTPUT
+    name: "O3"
+  D:
+    type: INPUT
+    name: "I1"
+  E:
+    type: INPUT
+    name: "I3"
+  F:
+    type: INPUT
+    name: "I3"
+  G:
+    type: OUTPUT
+    name: "O1"
+  H:
+    type: INPUT
+    name: "I2"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: OUTPUT
+    name: "O4"
+  L:
+    type: OUTPUT
+    name: "O2R"
+  M:
+    type: VN12
+    name: "-12V"
+  N:
+    type: VP12
+    name: "+12VM"
+  P:
+    type: OUTPUT
+    name: "O2C"
+  Q:
+    type: INPUT
+    name: "I4"
+  R:
+    type: INPUT
+    name: "I4"

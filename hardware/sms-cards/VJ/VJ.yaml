@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: VJ
+description: "SDTRL-Trigger, Binary"
+function: "AC Coupled RS Flip-Flop"
+pins:
+  A:
+    type: UNKNOWN
+    name: "GR1"
+  B:
+    type: UNKNOWN
+    name: "Q"
+  C:
+    type: UNKNOWN
+    name: "*R"
+  D:
+    type: UNKNOWN
+    name: "PR1"
+  E:
+    type: UNKNOWN
+    name: "GR2"
+  F:
+    type: UNKNOWN
+    name: "PR2"
+  G:
+    type: UNKNOWN
+    name: "RR1"
+  H:
+    type: UNKNOWN
+    name: "*S"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: UNKNOWN
+    name: "GS2"
+  L:
+    type: UNKNOWN
+    name: "PS2"
+  M:
+    type: VN12
+    name: "-12V"
+  N:
+    type: VP12
+    name: "+12VM"
+  P:
+    type: UNKNOWN
+    name: "*Q"
+  Q:
+    type: UNKNOWN
+    name: "PS1"
+  R:
+    type: UNKNOWN
+    name: "GS1"

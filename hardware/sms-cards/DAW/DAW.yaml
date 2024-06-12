@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: DAW
+description: "SDTRL-Inverter, 3 Way, Unloaded Collectors"
+function: "Triple 3 Input Open Collector NAND"
+pins:
+  A:
+    type: INPUT
+    name: "I1"
+  B:
+    type: INPUT
+    name: "I1"
+  C:
+    type: OUTPUT
+    name: "O2"
+  D:
+    type: OUTPUT
+    name: "O3"
+  E:
+    type: OUTPUT
+    name: "O1"
+  F:
+    type: INPUT
+    name: "I2"
+  G:
+    type: INPUT
+    name: "I2"
+  H:
+    type: INPUT
+    name: "I2"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: INPUT
+    name: "I1"
+  L:
+    type: UNKNOWN
+    name: "PDR"
+  M:
+    type: VN12
+    name: "-12V"
+  N:
+    type: VP12
+    name: "+12VM"
+  P:
+    type: INPUT
+    name: "I3"
+  Q:
+    type: INPUT
+    name: "I3"
+  R:
+    type: INPUT
+    name: "I3"

@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: DEE
+description: "SDTRL Standard Cable Terminator Gated"
+function: "Quad NAND Line Receiver"
+pins:
+  A:
+    type: OUTPUT
+    name: "O2"
+  B:
+    type: OUTPUT
+    name: "O1"
+  C:
+    type: OUTPUT
+    name: "O3"
+  D:
+    type: INPUT
+    name: "I2"
+  E:
+    type: INPUT
+    name: "I3"
+  F:
+    type: UNKNOWN
+    name: "C3"
+  G:
+    type: OUTPUT
+    name: "O4R"
+  H:
+    type: INPUT
+    name: "I4"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: UNKNOWN
+    name: "C2"
+  L:
+    type: OUTPUT
+    name: "O4C"
+  M:
+    type: VN12
+    name: "-12V"
+  N:
+    type: VP12
+    name: "+12VM"
+  P:
+    type: UNKNOWN
+    name: "C1"
+  Q:
+    type: INPUT
+    name: "I1"
+  R:
+    type: UNKNOWN
+    name: "C4"

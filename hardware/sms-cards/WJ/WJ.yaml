@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: WJ
+description: "Alloy-Driver, 12V"
+function: "Dual 300mA 12V Driver"
+pins:
+  A:
+    type: INPUT
+    name: "I1D"
+  B:
+    type: INPUT
+    name: "I1R"
+  C:
+    type: OUTPUT
+    name: "O1"
+  D:
+    type: NC
+    name: ""
+  E:
+    type: OUTPUT
+    name: "O2"
+  F:
+    type: NC
+    name: ""
+  G:
+    type: INPUT
+    name: "I2R"
+  H:
+    type: INPUT
+    name: "I2D"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: NC
+    name: ""
+  L:
+    type: NC
+    name: ""
+  M:
+    type: VN12
+    name: "-12V"
+  N:
+    type: NC
+    name: ""
+  P:
+    type: NC
+    name: ""
+  Q:
+    type: UNKNOWN
+    name: "+12V"
+  R:
+    type: NC
+    name: ""

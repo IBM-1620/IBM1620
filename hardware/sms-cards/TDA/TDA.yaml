@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: TDA
+description: "SDTRL-Distributed Line Terminator"
+function: "Penta Line Receiver"
+pins:
+  A:
+    type: INPUT
+    name: "I1"
+  B:
+    type: OUTPUT
+    name: "O5"
+  C:
+    type: OUTPUT
+    name: "O4"
+  D:
+    type: OUTPUT
+    name: "O3"
+  E:
+    type: OUTPUT
+    name: "O2"
+  F:
+    type: OUTPUT
+    name: "O1"
+  G:
+    type: INPUT
+    name: "I5"
+  H:
+    type: NC
+    name: ""
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: NC
+    name: ""
+  L:
+    type: NC
+    name: ""
+  M:
+    type: VN12
+    name: "-12V"
+  N:
+    type: VP12
+    name: "+12VM"
+  P:
+    type: INPUT
+    name: "I4"
+  Q:
+    type: INPUT
+    name: "I3"
+  R:
+    type: INPUT
+    name: "I2"

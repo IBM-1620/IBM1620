@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: TCK
+description: "SDTRL-End of Line Terminators"
+function: "100ohm terminators: Quad to 0V w/9 to 1.5V"
+pins:
+  A:
+    type: UNKNOWN
+    name: "T1B"
+  B:
+    type: UNKNOWN
+    name: "T2B"
+  C:
+    type: UNKNOWN
+    name: "T3B"
+  D:
+    type: UNKNOWN
+    name: "T4B"
+  E:
+    type: UNKNOWN
+    name: "T5B"
+  F:
+    type: UNKNOWN
+    name: "T6B"
+  G:
+    type: UNKNOWN
+    name: "T1A"
+  H:
+    type: UNKNOWN
+    name: "T7B"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: UNKNOWN
+    name: "T8B"
+  L:
+    type: UNKNOWN
+    name: "T9B"
+  M:
+    type: NC
+    name: ""
+  N:
+    type: VP12
+    name: "+12VM"
+  P:
+    type: UNKNOWN
+    name: "T2A"
+  Q:
+    type: UNKNOWN
+    name: "T3A"
+  R:
+    type: UNKNOWN
+    name: "T4A"

@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: RE
+description: "Alloy-Thermoswitch N/C 122F"
+function: "Overtemperature Switch"
+pins:
+  A:
+    type: UNKNOWN
+    name: "VO1"
+  B:
+    type: UNKNOWN
+    name: "VI1"
+  C:
+    type: UNKNOWN
+    name: "J1"
+  D:
+    type: UNKNOWN
+    name: "J1"
+  E:
+    type: UNKNOWN
+    name: "spare"
+  F:
+    type: INPUT
+    name: "I1"
+  G:
+    type: NC
+    name: ""
+  H:
+    type: OUTPUT
+    name: "O1"
+  J:
+    type: UNKNOWN
+    name: "spare"
+  K:
+    type: NC
+    name: ""
+  L:
+    type: NC
+    name: ""
+  M:
+    type: NC
+    name: ""
+  N:
+    type: NC
+    name: ""
+  P:
+    type: UNKNOWN
+    name: "spare"
+  Q:
+    type: UNKNOWN
+    name: "spare"
+  R:
+    type: UNKNOWN
+    name: "spare"

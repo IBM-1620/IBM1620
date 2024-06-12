@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: DBU
+description: "Drift Logic Driven DL"
+function: "Penta 1..3 Input NAND Line Driver"
+pins:
+  A:
+    type: OUTPUT
+    name: "O2"
+  B:
+    type: INPUT
+    name: "I5"
+  C:
+    type: INPUT
+    name: "I3"
+  D:
+    type: INPUT
+    name: "I3"
+  E:
+    type: INPUT
+    name: "I2"
+  F:
+    type: INPUT
+    name: "I1"
+  G:
+    type: INPUT
+    name: "I1"
+  H:
+    type: INPUT
+    name: "I1"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: INPUT
+    name: "I4"
+  L:
+    type: OUTPUT
+    name: "O5"
+  M:
+    type: VN12
+    name: "-12V"
+  N:
+    type: VP12
+    name: "+12VM"
+  P:
+    type: OUTPUT
+    name: "O1"
+  Q:
+    type: OUTPUT
+    name: "O3"
+  R:
+    type: OUTPUT
+    name: "O4"

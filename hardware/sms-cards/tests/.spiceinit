@@ -1,0 +1,2 @@
+set sourcepath=( /home/bruce/IBM1620/hardware/sms-cards $sourcepath )
+
