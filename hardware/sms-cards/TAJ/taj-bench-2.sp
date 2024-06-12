@@ -1,10 +1,10 @@
 * Generic test bench
 
-.include "../ibm-sms-models.sp"
-.include "../ibm-sms-components.sp"
-.include "../taf/taf.sp"
+.include "../util/ibm-sms-models.sp"
+.include "../util/ibm-sms-components.sp"
+.include "../TAF/TAF.sp"
 .include "../util/hiz.sp"
-.include "taj.sp"
+.include "TAJ.sp"
 
 vs1 vp12 0 12
 vs2 vn12 0 -12
