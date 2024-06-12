@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: TCZ
+description: "SDTRL-Modified MUP Number 12"
+function: "Dual Buffered RS Flip-Flop w/Common Reset"
+pins:
+  A:
+    type: UNKNOWN
+    name: "*S2"
+  B:
+    type: UNKNOWN
+    name: "Q1"
+  C:
+    type: UNKNOWN
+    name: "*Q1"
+  D:
+    type: UNKNOWN
+    name: "*Q2"
+  E:
+    type: UNKNOWN
+    name: "Q2"
+  F:
+    type: UNKNOWN
+    name: "Q2U"
+  G:
+    type: UNKNOWN
+    name: "*S2"
+  H:
+    type: UNKNOWN
+    name: "*R2"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: UNKNOWN
+    name: "*S1"
+  L:
+    type: UNKNOWN
+    name: "*S1"
+  M:
+    type: VN12
+    name: "-12V"
+  N:
+    type: VP12
+    name: "+12VM"
+  P:
+    type: UNKNOWN
+    name: "Q1U"
+  Q:
+    type: UNKNOWN
+    name: "*R1"
+  R:
+    type: UNKNOWN
+    name: "*R"

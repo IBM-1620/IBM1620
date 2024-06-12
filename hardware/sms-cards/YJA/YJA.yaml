@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: YJA
+description: "Alloy-Resistor Card, 3 Watt"
+function: "Hex Pullup +12V 40.2ohm 3W"
+pins:
+  A:
+    type: UNKNOWN
+    name: "spare"
+  B:
+    type: UNKNOWN
+    name: "R1"
+  C:
+    type: UNKNOWN
+    name: "R2"
+  D:
+    type: UNKNOWN
+    name: "R3"
+  E:
+    type: UNKNOWN
+    name: "R4"
+  F:
+    type: UNKNOWN
+    name: "R5"
+  G:
+    type: UNKNOWN
+    name: "R6"
+  H:
+    type: UNKNOWN
+    name: "spare"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: UNKNOWN
+    name: "spare"
+  L:
+    type: UNKNOWN
+    name: "spare"
+  M:
+    type: UNKNOWN
+    name: "spare"
+  N:
+    type: UNKNOWN
+    name: "spare"
+  P:
+    type: UNKNOWN
+    name: "spare"
+  Q:
+    type: UNKNOWN
+    name: "+12V"
+  R:
+    type: UNKNOWN
+    name: "spare"

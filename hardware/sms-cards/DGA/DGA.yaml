@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: DGA
+description: " "
+function: "Quad Open Collector NAND Line Receiver"
+pins:
+  A:
+    type: OUTPUT
+    name: "O4"
+  B:
+    type: OUTPUT
+    name: "O3"
+  C:
+    type: OUTPUT
+    name: "O1"
+  D:
+    type: INPUT
+    name: "I4D"
+  E:
+    type: INPUT
+    name: "I1D"
+  F:
+    type: INPUT
+    name: "I1"
+  G:
+    type: GND
+    name: "GND"
+  H:
+    type: INPUT
+    name: "I2D"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: INPUT
+    name: "I4"
+  L:
+    type: OUTPUT
+    name: "O2"
+  M:
+    type: NC
+    name: ""
+  N:
+    type: VP12
+    name: "+12VM"
+  P:
+    type: INPUT
+    name: "I3"
+  Q:
+    type: INPUT
+    name: "I3D"
+  R:
+    type: INPUT
+    name: "I2"

@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: YGJ
+description: "12 Volt Diff Amplifier"
+function: "Voltage Regulator"
+pins:
+  A:
+    type: UNKNOWN
+    name: "D1"
+  B:
+    type: UNKNOWN
+    name: "D2"
+  C:
+    type: UNKNOWN
+    name: "E"
+  D:
+    type: UNKNOWN
+    name: "C"
+  E:
+    type: UNKNOWN
+    name: "V"
+  F:
+    type: UNKNOWN
+    name: "DCOMMON"
+  G:
+    type: NC
+    name: ""
+  H:
+    type: INPUT
+    name: "IN"
+  J:
+    type: NC
+    name: ""
+  K:
+    type: UNKNOWN
+    name: "?"
+  L:
+    type: UNKNOWN
+    name: "POS"
+  M:
+    type: UNKNOWN
+    name: "R"
+  N:
+    type: NC
+    name: ""
+  P:
+    type: NC
+    name: ""
+  Q:
+    type: UNKNOWN
+    name: "NEG"
+  R:
+    type: NC
+    name: ""

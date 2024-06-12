@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: VM
+description: "SDTRL-Inverter, Power-PNP"
+function: "Quad Inverter"
+pins:
+  A:
+    type: OUTPUT
+    name: "O4"
+  B:
+    type: INPUT
+    name: "I3"
+  C:
+    type: OUTPUT
+    name: "O3R"
+  D:
+    type: OUTPUT
+    name: "O2"
+  E:
+    type: OUTPUT
+    name: "O3C"
+  F:
+    type: INPUT
+    name: "I4R"
+  G:
+    type: INPUT
+    name: "I1C"
+  H:
+    type: INPUT
+    name: "I4C"
+  J:
+    type: GND
+    name: "GND"
+  K:
+    type: INPUT
+    name: "I1R"
+  L:
+    type: OUTPUT
+    name: "O1C"
+  M:
+    type: VN12
+    name: "-12V"
+  N:
+    type: VP12
+    name: "+12VM"
+  P:
+    type: INPUT
+    name: "I2R"
+  Q:
+    type: INPUT
+    name: "I2C"
+  R:
+    type: OUTPUT
+    name: "O1R"

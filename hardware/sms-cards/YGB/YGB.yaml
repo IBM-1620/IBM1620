@@ -1,0 +1,55 @@
+# IBM 1620 Logic Reproduction Project
+# Generated from https://github.com/IBM-1620/IBM1620/blob/main/hardware/IBM%201620%20SMS%20Cards.xls
+# 2024-06-11 21:13:06
+code: YGB
+description: "Overvoltage Protection 12 Volt"
+function: "Crowbar"
+pins:
+  A:
+    type: UNKNOWN
+    name: "NEG"
+  B:
+    type: UNKNOWN
+    name: "NEG"
+  C:
+    type: UNKNOWN
+    name: "NEG"
+  D:
+    type: UNKNOWN
+    name: "NEG"
+  E:
+    type: UNKNOWN
+    name: "NEG"
+  F:
+    type: UNKNOWN
+    name: "NEG"
+  G:
+    type: UNKNOWN
+    name: "NEG"
+  H:
+    type: UNKNOWN
+    name: "POS"
+  J:
+    type: UNKNOWN
+    name: "POS"
+  K:
+    type: UNKNOWN
+    name: "POS"
+  L:
+    type: UNKNOWN
+    name: "POS"
+  M:
+    type: UNKNOWN
+    name: "POS"
+  N:
+    type: UNKNOWN
+    name: "POS"
+  P:
+    type: UNKNOWN
+    name: "POS"
+  Q:
+    type: NC
+    name: ""
+  R:
+    type: UNKNOWN
+    name: "BIAS"
